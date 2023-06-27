@@ -1,5 +1,7 @@
 # How to run admin locally (includes instructions for Mac M1 users)
 
+Note: Original links and screenshots from the source company have been removed to protect their privacy.
+
 (Updated: Dec 2, 2021, Generosa Litton)
 
 This document describes how to run admin in your laptop so that you can make pull requests or contribute to Gatsby's source code
